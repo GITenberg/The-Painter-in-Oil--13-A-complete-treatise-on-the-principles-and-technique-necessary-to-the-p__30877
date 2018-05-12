@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34870'
     url: http://www.gutenberg.org/2009/agents/34870
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30877#The-Painter-in-Oil--13-A-complete-treatise-on-the-principles-and-technique-necessary-to-the-p_
 gutenberg_issued: '2010-01-06'
 gutenberg_type: Text
 identifiers:
