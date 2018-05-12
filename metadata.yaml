@@ -1,0 +1,26 @@
+_repo: The-Painter-in-Oil--13-A-complete-treatise-on-the-principles-and-technique-necessary-to-the-p__30877
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30877-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Parkhurst, Daniel Burleigh
+    gutenberg_agent_id: '34870'
+    url: http://www.gutenberg.org/2009/agents/34870
+description: ''
+gutenberg_issued: '2010-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30877'
+  lccn: '11032848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Painting -- Technique'
+title: "The Painter in Oil\r\nA complete treatise on the principles and technique\
+  \ necessary to the painting of pictures in oil colors"
+url: http://www.gutenberg.org/ebooks/30877
